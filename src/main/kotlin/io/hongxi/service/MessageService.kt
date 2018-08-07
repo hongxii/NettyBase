@@ -1,7 +1,7 @@
 package io.hongxi.service
 
-import io.hongxi.old.dto.Response
-import io.hongxi.old.entity.Client
+import io.hongxi.dto.Response
+import io.hongxi.entity.Client
 
 object MessageService {
 

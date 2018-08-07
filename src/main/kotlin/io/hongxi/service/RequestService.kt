@@ -1,6 +1,6 @@
 package io.hongxi.service
 
-import io.hongxi.old.entity.Client
+import io.hongxi.entity.Client
 import org.apache.commons.codec.binary.Base64
 import org.json.JSONException
 import org.json.JSONObject
